@@ -55,7 +55,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo : {"https://github.com/anuj-paude1/enigma-blog"},
+      repo : "https://github.com/anuj-paude1/enigma-blog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
