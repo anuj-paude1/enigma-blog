@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Enigma Blog`,
+      name: `Enigma-Log`,
       href: "https://github.com/orgs/6-engimas",
     },
   ],
